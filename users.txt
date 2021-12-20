@@ -1,0 +1,3 @@
+alfa,users,TopSecr,/bin/sh
+bravo,administrator,123123,/bin/bash
+charlie,users,vi@d#,/bin/sh
